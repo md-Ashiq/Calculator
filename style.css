@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+    margin-top: 5rem;
+  
+}
+table{
+    margin:auto;
+}
+input{
+    font-size: 1.3em;
+    border:2px solid black;
+    border-radius: .5em;
+    outline:none;
+    margin-top: 1rem;
+}
+button{
+    width:4em;
+    height:4em;
+    margin:.4em;
+    background-color: rgb(235, 255, 164);
+    cursor: pointer;
+    outline:none;
+    border-radius: 1em;
+    font-size: 1em;
+    font-weight: bold;
+
+}
+.child{
+    background-color:grey;
+     display: inline-block; 
+    border-radius: 2em;
+}
